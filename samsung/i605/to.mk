@@ -1,0 +1,27 @@
+# Release name
+PRODUCT_RELEASE_NAME := i605
+
+# Boot animation
+TARGET_SCREEN_HEIGHT := 1280
+TARGET_SCREEN_WIDTH := 720
+
+# Inherit some common TO stuff.
+$(call inherit-product, vendor/to/config/common_full_phone.mk)
+
+# Inherit some t0lte-common over-rides
+$(call inherit-product, vendor/to/product/samsung/t0lte-common/to.mk)
+
+# Inherit device configuration
+$(call inherit-product, device/samsung/i605/full_i605.mk)
+
+# Device identifier. This must come after all inclusions
+PRODUCT_DEVICE := i605
+PRODUCT_NAME := to_i605
+PRODUCT_BRAND := samsung
+PRODUCT_MODEL := SCH-I605
+PRODUCT_MANUFACTURER := samsung
+
+PRODUCT_GMS_CLIENTID_BASE := android-verizon
+
+# Set build fingerprint / ID / Product Name ect.
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=t0ltevzw TARGET_DEVICE=t0ltevzw BUILD_FINGERPRINT="Verizon/t0ltevzw/t0ltevzw:4.4.2/KOT49H/I605VRUFND7:user/release-keys" PRIVATE_BUILD_DESC="t0ltevzw-user 4.4.2 KOT49H I605VRUFND7 release-keys"

@@ -1,0 +1,56 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_i605",
+    "target_path": "device/samsung/i605",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_smdk4412-common",
+    "target_path": "device/samsung/smdk4412-common",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_samsung_smdk4412-qcom-common",
+    "target_path": "device/samsung/smdk4412-qcom-common",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "to-d",
+    "repository": "platform_device_samsung_t0lte",
+    "target_path": "device/samsung/t0lte",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote": "to-d",
+    "repository": "platform_kernel_samsung_smdk4412",
+    "target_path": "kernel/samsung/smdk4412",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_packages_apps_SamsungServiceMode",
+    "target_path": "packages/apps/SamsungServiceMode",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-14.1"
+  }
+]
