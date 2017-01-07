@@ -3,7 +3,7 @@
     "remote": "cm",
     "repository": "android_device_samsung_jflteatt",
     "target_path": "device/samsung/jflteatt",
-    "revision": "cm-14.0"
+    "revision": "cm-14.1"
   },
   {
     "remote": "cm",
@@ -41,8 +41,9 @@
     "target_path": "vendor/samsung",
     "revision": "cm-14.1"
   },
-  {
+  { "remote": "cm",
     "repository": "android_external_stlport",
-    "target_path": "external/stlport"
+    "target_path": "external/stlport",
+    "revision": "cm-14.1"
   }
 ]
