@@ -6,6 +6,9 @@ $(call inherit-product, device/samsung/d2tmo/full_d2tmo.mk)
 # Inherit device common stuff specific to TO
 $(call inherit-product, vendor/to/product/samsung/d2-common/to.mk)
 
+#Device overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/to/product/samsung/d2tmo/overlay
+
 # Inherit some common TO stuff.
 $(call inherit-product, vendor/to/config/common_full_phone.mk)
 
