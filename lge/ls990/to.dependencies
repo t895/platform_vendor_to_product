@@ -1,13 +1,13 @@
 [
     {
-      "remote":      "gh",
-      "repository":  "Octo-g3/android_device_lge_ls990",
+      "remote":      "to-d",
+      "repository":  "platform_device_lge_ls990",
       "target_path": "device/lge/ls990",
       "revision":    "oct-14.1"
     },
     {
-      "remote":      "gh",
-      "repository":  "Octo-g3/android_device_lge_g3-common",
+      "remote":      "to-d",
+      "repository":  "platform_device_lge_g3-common",
       "target_path": "device/lge/g3-common",
       "revision":    "oct-14.1"
     },
@@ -24,8 +24,8 @@
       "revision":    "cm-14.1"
     },
     {
-      "remote":      "gh",
-      "repository":  "Octo-g3/proprietary_vendor_lge_g3",
+      "remote":      "to-d",
+      "repository":  "proprietary_vendor_lge_g3",
       "target_path": "vendor/lge",
       "revision":    "oct-14.1"
     },
