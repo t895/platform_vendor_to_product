@@ -25,6 +25,10 @@ TARGET_BOOTANIMATION_HALF_RES := true
 #Device overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/motorola/athene/overlay
 
+# Tethering
+PRODUCT_PROPERTY_OVERRIDES += \
+    net.tethering.noprovisioning=true
+
 # set default USB configuration
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     sys.usb.config=mtp,adb \
