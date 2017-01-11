@@ -24,9 +24,10 @@
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
     <string name="email_device" translatable="false">@string/email_manfromgta</string>
-
+    <string name="support_title" translatable="false">XDA Developers Thread</string>
+    <string name="support_summary" translatable="false">Visit our support thread on XDA Developers Forum!</string>
     <!-- when url_support_thread is set to "novalue" the support thread link is removed -->
-    <!-- <string name="url_support_thread" translatable="false">novalue</string> -->
+    <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/galaxy-s4-att/orig-development/rom-team-octos-oct-n-t3532663#post70411461</string>
 
     <!-- URL of the Kraken kernel for the device-->
     <!-- <string name="octos_kraken_url">http://www.teamoctos.com/kraken-kernel-oct-n/</string> -->
