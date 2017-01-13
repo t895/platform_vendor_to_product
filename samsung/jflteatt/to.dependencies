@@ -41,6 +41,12 @@
     "target_path": "vendor/samsung",
     "revision": "cm-14.1"
   },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/samsung",
+    "revision": "cm-14.1"
+  },
   { "remote": "cm",
     "repository": "android_external_stlport",
     "target_path": "external/stlport",
