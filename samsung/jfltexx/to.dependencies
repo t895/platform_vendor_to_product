@@ -25,6 +25,12 @@
   },
   {
     "remote": "cm",
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
     "repository": "android_kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
     "revision": "cm-14.1"
