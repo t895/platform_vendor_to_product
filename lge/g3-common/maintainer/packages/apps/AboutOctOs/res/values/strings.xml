@@ -23,7 +23,7 @@
     <string name="gplus_device" translatable="false">@string/gplus_bthorne79</string>
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
-    <string name="email_device" translatable="false">@string/email_rcovington79@gmail.com</string>
+    <string name="email_device" translatable="false">@string/email_bthorne79</string>
 
     <!-- URL of the Kraken kernel for the device-->
     <!--string name="octos_kraken_url">http://www.teamoctos.com/kraken-kernel-oct-n/</string-->
