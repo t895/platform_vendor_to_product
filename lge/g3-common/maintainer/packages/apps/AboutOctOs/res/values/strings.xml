@@ -20,7 +20,7 @@
     <string name="dev_device" translatable="false">@string/dev_bthorne79</string>
     <string name="twitter_device" translatable="false">@string/twitter_bthorne79</string>
     <string name="github_device" translatable="false">@string/github_bthorne79</string>
-    <string name="gplus_device" translatable="false">@string/gplus_+richard covington</string>
+    <string name="gplus_device" translatable="false">@string/gplus_bthorne79</string>
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
     <string name="email_device" translatable="false">@string/email_rcovington79@gmail.com</string>
