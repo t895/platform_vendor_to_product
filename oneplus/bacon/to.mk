@@ -18,8 +18,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from bacon device
 $(call inherit-product, device/oneplus/bacon/bacon.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common OctOs stuff.
 $(call inherit-product, vendor/to/config/common_full_phone.mk)
+
+#Device overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/to/product/oneplus/bacon/overlay
 
 PRODUCT_NAME := to_bacon
 PRODUCT_DEVICE := bacon
