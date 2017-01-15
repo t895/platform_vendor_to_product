@@ -1,7 +1,10 @@
 $(call inherit-product, device/asus/Z00T/full_Z00T.mk)
 
-# Inherit some common TO stuff.
+# Inherit some common OctOS stuff.
 $(call inherit-product, vendor/to/config/common_full_phone.mk)
+
+#Device overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/to/product/asus/Z00T/overlay
 
 PRODUCT_NAME := to_Z00T
 PRODUCT_BRAND := asus
