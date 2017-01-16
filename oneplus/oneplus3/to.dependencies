@@ -1,15 +1,15 @@
 [
   {
-    "repository": "ujwalp15/android_device_oneplus_oneplus3",
+    "repository": "platform_device_oneplus_oneplus3",
     "target_path": "device/oneplus/oneplus3",
     "revision": "oct-14.1",
-    "remote": "gh"
+    "remote": "to-d"
   },
   {
-    "repository": "ujwalp15/android_device_oppo_common",
+    "repository": "platform_device_oppo_common",
     "target_path": "device/oppo/common",
     "revision": "oct-14.1",
-    "remote": "gh"
+    "remote": "to-d"
   },
   {
     "repository": "android_device_qcom_common",
@@ -18,16 +18,16 @@
     "remote": "cm"
   },
   {
-    "repository": "ujwalp15/android_kernel_oneplus_msm8996",
+    "repository": "platform_kernel_oneplus_msm8996",
     "target_path": "kernel/oneplus/msm8996",
     "revision": "oct-14.1",
-    "remote": "gh"
+    "remote": "to-d"
   },
   {
-    "repository": "ujwalp15/proprietary_vendor_oneplus",
+    "repository": "proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "revision": "oct-14.1",
-    "remote": "gh"
+    "revision": "cm-14.1",
+    "remote": "tm"
   },
   {
     "repository": "proprietary_vendor_qcom_binaries",
