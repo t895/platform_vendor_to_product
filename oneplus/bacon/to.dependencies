@@ -12,7 +12,7 @@
     "remote": "cm"
   },
 {
-    "repository": "android_device_oppo_common",
+    "repository": "platform_device_oppo_common",
     "target_path": "device/oppo/common",
     "revision": "oct-14.1",
     "remote": "to-d"
