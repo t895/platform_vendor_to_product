@@ -18,10 +18,10 @@
     "revision": "cm-14.1"
   },
   {
-    "remote": "gh",
-    "repository": "jrior001/proprietary_vendor_asus",
+    "remote": "to-d",
+    "repository": "proprietary_vendor_asus",
     "target_path": "vendor/asus",
-    "revision": "cm-14.1"
+    "revision": "oct-14.1"
   },
   {
    "remote": "cm",
