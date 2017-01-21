@@ -6,10 +6,10 @@
     "revision": "cm-14.1"
   },
   {
-    "remote": "cm",
-    "repository": "android_device_samsung_jf-common",
+    "remote": "to-d",
+    "repository": "platform_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common",
-    "revision": "cm-14.1"
+    "revision": "oct-14.1"
   },
   {
     "remote": "cm",
