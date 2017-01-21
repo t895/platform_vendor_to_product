@@ -26,8 +26,8 @@
   {
     "repository": "proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "revision": "cm-14.1",
-    "remote": "tm"
+    "revision": "oct-14.1",
+    "remote": "to-d"
   },
   {
     "repository": "proprietary_vendor_qcom_binaries",
