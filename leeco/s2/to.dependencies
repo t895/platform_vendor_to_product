@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_kernel_leeco_msm8976",
+    "target_path": "kernel/leeco/msm8976",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_leeco_s2",
+    "target_path": "device/leeco/s2",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_leeco",
+    "target_path": "vendor/leeco",
+    "revision": "cm-14.1"
+   }
+]
