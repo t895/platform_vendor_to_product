@@ -1,4 +1,5 @@
-# Boot animationTARGET_SCREEN_WIDTH := 1080
+# Boot animation
+TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 1920
 
 # Inherit device configuration
