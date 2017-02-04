@@ -13,9 +13,9 @@ add_lunch_combo to_jfltespr-userdebug
 add_lunch_combo to_jfltexx-userdebug
 add_lunch_combo to_ls990-userdebug
 add_lunch_combo to_oneplus3-userdebug
-add_lunch_combo to_vs985-userdebug
+add_lunch_combo to_s2-userdebug
 add_lunch_combo to_serranolteusc-userdebug
+add_lunch_combo to_vs985-userdebug
 add_lunch_combo to_Z00A-userdebug
 add_lunch_combo to_Z00T-userdebug
 add_lunch_combo to_Z008-userdebug
-add_lunch_combo to_s2-userdebug
