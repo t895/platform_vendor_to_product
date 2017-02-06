@@ -12,9 +12,9 @@
       "revision":    "cm-14.1"
     },
     {
-      "remote":      "tm",
+      "remote":      "to-d",
       "repository":  "proprietary_vendor_lge",
       "target_path": "vendor/lge",
-      "revision":    "cm-14.1"
+      "revision":    "oct-14.1"
     }
 ]

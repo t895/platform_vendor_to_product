@@ -25,7 +25,7 @@
     },
     {
       "remote":      "to-d",
-      "repository":  "proprietary_vendor_lge_g3",
+      "repository":  "proprietary_vendor_lge",
       "target_path": "vendor/lge",
       "revision":    "oct-14.1"
     },
