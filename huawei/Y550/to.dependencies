@@ -22,5 +22,17 @@
       "repository":  "proprietary_vendor_huawei",
       "target_path": "vendor/huawei",
       "revision":    "oct-14.1"
+    },
+    {
+      "remote": "cm",
+      "repository": "android_device_qcom_common",
+      "target_path": "device/qcom/common",
+      "revision": "cm-14.1"
+    },
+    {
+      "remote": "tm",
+      "repository": "proprietary_vendor_qcom_binaries",
+      "target_path": "vendor/qcom/binaries",
+      "revision": "cm-14.1"
     }
 ]

@@ -16,11 +16,12 @@
 <resources>
 
   <!-- Device Maintainer can input their inforation here or set it in an overlay for the device-->
-  <string name="device_support_title" translatable="false">MotoG4/G4 Plus is supported by:</string>
-  <string name="dev_device" translatable="false">rahulsnair</string>
-  <string name="twitter_device" translatable="false">https://twitter.com/rahulsnair30</string>
+  <string name="device_support_title" translatable="false">Huawei Y550 is supported by:</string>
+  <string name="dev_device" translatable="false">NATO6613</string>
+  <string name="twitter_device" translatable="false">https://twitter.com/Ronalds1995</string>
   <string name="github_device" translatable="false">https://github.com/kondors1995</string>
-  <string name="gplus_device" translatable="false">https://plus.google.com/+RahulSNair30/about</string>
+  <string name="gplus_device" translatable="false">https://plus.google.com/112312911230706918967/about</string>
+
   <!-- The developer photo is pulled from Gravatar using the supplied email address
        Set email_device to @null to use the fallback photo image -->
   <string name="email_device" translatable="false">ronaldsustinovs@gmail.com</string>
