@@ -1,0 +1,26 @@
+[
+    {
+      "remote":      "to-d",
+      "repository":  "platform_device_Y550",
+      "target_path": "device/huawei/Y550",
+      "revision":    "oct-14.1"
+    },
+    {
+      "remote":      "to-d",
+      "repository":  "platform_device_msm8916-common",
+      "target_path": "device/huawei/msm8916-common",
+      "revision":    "oct-14.1"
+    },
+    {
+      "remote":      "to-d",
+      "repository":  "platform_kernel_huawei_msm8916",
+      "target_path": "kernel/huawei/msm8916",
+      "revision":    "oct-14.1"
+    },
+    {
+      "remote":      "to-d",
+      "repository":  "proprietary_vendor_huawei",
+      "target_path": "vendor/huawei",
+      "revision":    "oct-14.1"
+    }
+]
