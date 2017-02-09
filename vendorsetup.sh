@@ -1,5 +1,7 @@
+add_lunch_combo to_angler-userdebug
 add_lunch_combo to_athene-userdebug
 add_lunch_combo to_bacon-userdebug
+add_lunch_combo to_bullhead-userdebug
 add_lunch_combo to_d2att-userdebug
 add_lunch_combo to_d2spr-userdebug
 add_lunch_combo to_d2tmo-userdebug
@@ -12,9 +14,12 @@ add_lunch_combo to_jflteatt-userdebug
 add_lunch_combo to_jfltespr-userdebug
 add_lunch_combo to_jfltexx-userdebug
 add_lunch_combo to_ls990-userdebug
+add_lunch_combo to_marlin-userdebug
 add_lunch_combo to_oneplus3-userdebug
 add_lunch_combo to_s2-userdebug
+add_lunch_combo to_sailfish-userdebug
 add_lunch_combo to_serranolteusc-userdebug
+add_lunch_combo to_shamu-userdebug
 add_lunch_combo to_vs985-userdebug
 add_lunch_combo to_Y550-userdebug
 add_lunch_combo to_Z00A-userdebug

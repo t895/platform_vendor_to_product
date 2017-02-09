@@ -17,6 +17,9 @@
 # $(call inherit-product, device/sample/products/backup_overlay.mk)
 # Provide meaningful APN configuration
 
+#Device overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/to/product/google/sailfish/overlay
+
 PRODUCT_COPY_FILES := device/google/marlin/apns-full-conf.xml:system/etc/apns-conf.xml
 
 # Inherit aosp_sailfish
@@ -33,6 +36,12 @@ $(call inherit-product, vendor/to/config/common_full_phone.mk)
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
+
+# set default USB configuration
+PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
+    sys.usb.config=mtp,adb \
+    persist.sys.usb.config=mtp,adb \
+    ro.adb.secure=0
 
 PRODUCT_NAME := to_sailfish
 PRODUCT_DEVICE := sailfish
