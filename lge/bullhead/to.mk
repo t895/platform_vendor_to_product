@@ -1,3 +1,6 @@
+LOCAL_PATH := $(call my-dir)
+include $(call all-subdir-makefiles,$(LOCAL_PATH))
+
 #Device overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/lge/bullhead/overlay
 
@@ -10,6 +13,14 @@ $(call inherit-product, vendor/to/config/common_full_phone.mk)
 
 # Inherit AOSP device configuration for hammerhead.
 $(call inherit-product, device/lge/bullhead/aosp_bullhead.mk)
+
+# Remove fstab.bullhead from PRODUCT_COPY_FILES
+TARGET_COPY_FILES_OVERRIDES := \
+    root/fstab.bullhead
+
+# Add fstab.bullhead as a module
+PRODUCT_PACKAGES += \
+    fstab.bullhead
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := to_bullhead
