@@ -12,6 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+LOCAL_PATH := $(call my-dir)
+include $(call all-subdir-makefiles,$(LOCAL_PATH))
+
 #Device overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/huawei/angler/overlay
 
@@ -24,6 +27,14 @@ $(call inherit-product, vendor/to/config/common_full_phone.mk)
 
 # Inherit AOSP device configuration for hammerhead.
 $(call inherit-product, device/huawei/angler/aosp_angler.mk)
+
+# Remove fstab.angler from PRODUCT_COPY_FILES
+TARGET_COPY_FILES_OVERRIDES := \
+    root/fstab.angler
+
+# Add fstab.angler as a module
+PRODUCT_PACKAGES += \
+    fstab.angler
 
 # Setup device specific product configuration.
 PRODUCT_NAME := to_angler
