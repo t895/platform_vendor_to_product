@@ -12,6 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+LOCAL_PATH := $(call my-dir)
+include $(call all-subdir-makefiles,$(LOCAL_PATH))
+
 #Device overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/motorola/shamu/overlay
 
@@ -32,6 +35,14 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     sys.usb.config=mtp,adb \
     persist.sys.usb.config=mtp,adb \
     ro.adb.secure=0
+
+# Remove fstab.shamu from PRODUCT_COPY_FILES
+TARGET_COPY_FILES_OVERRIDES := \
+    root/fstab.shamu
+
+# Add fstab.shamu as a module
+PRODUCT_PACKAGES += \
+    fstab.shamu
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := to_shamu
