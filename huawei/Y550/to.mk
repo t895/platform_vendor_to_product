@@ -19,15 +19,20 @@ DEVICE_PACKAGE_OVERLAYS += vendor/to/product/huawei/Y550/overlay
 TARGET_SCREEN_HEIGHT := 854
 TARGET_SCREEN_WIDTH := 480
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/to/config/common_full_phone.mk)
+# Inherit from these products. Most specific first.
+$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/huawei/Y550/device.mk)
 
-# Setup device specific product configuration.
+# Inherit some common LineageOS stuff.
+$(call inherit-product, vendor/to/config/common_full_phone.mk)
+
 PRODUCT_DEVICE := Y550
 PRODUCT_NAME := to_Y550
 PRODUCT_BRAND := Huawei
 PRODUCT_MODEL := Y550
 PRODUCT_MANUFACTURER := HUAWEI
+
+PRODUCT_GMS_CLIENTID_BASE := android-huawei
+
