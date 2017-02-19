@@ -1,0 +1,44 @@
+[
+    {
+      "remote":      "gh",
+      "repository":  "aperomsik/lineageos_android_device_asus_grouper",
+      "target_path": "device/asus/grouper",
+      "revision":    "cm-14.1"
+    },
+    {
+      "remote":      "gh",
+      "repository":  "AndDiSa/android_kernel_asus_grouper",
+      "target_path": "kernel/asus/grouper",
+      "revision":    "ads-7.1.0"
+    },
+    {
+      "remote":      "gh",
+      "repository":  "AndDiSa/proprietary_vendor_asus",
+      "target_path": "vendor/asus",
+      "revision":    "ads-7.0.1"
+    },
+    {
+      "remote":      "gh",
+      "repository":  "AndDiSa/proprietary_vendor_broadcom",
+      "target_path": "vendor/broadcom",
+      "revision":    "ads-7.0.1"
+    },
+    {
+      "remote":      "gh",
+      "repository":  "AndDiSa/proprietary_vendor_elan",
+      "target_path": "vendor/elan",
+      "revision":    "oct-mm"
+    },
+    {
+      "remote":      "gh",
+      "repository":  "AndDiSa/proprietary_vendor_invensense",
+      "target_path": "vendor/invensense",
+      "revision":    "ads-7.0.1"
+    },
+    {
+      "remote":      "gh",
+      "repository":  "AndDiSa/proprietary_vendor_nvidia",
+      "target_path": "vendor/nvidia",
+      "revision":    "ads-7.0.1"
+    }
+]
