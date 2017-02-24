@@ -12,10 +12,10 @@
     "revision": "cm-14.1"
   },
   {
-    "remote": "cm",
-    "repository": "android_device_leeco_s2",
+    "remote": "to-d",
+    "repository": "platform_device_leeco_s2",
     "target_path": "device/leeco/s2",
-    "revision": "cm-14.1"
+    "revision": "oct-14.1"
   },
   {
     "remote": "tm",
