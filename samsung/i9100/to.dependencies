@@ -1,0 +1,43 @@
+[
+  {
+    "remote": "to-d",
+    "repository": "platform_device_samsung_i9100",
+    "target_path": "device/samsung/i9100",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote": "to-d",
+    "repository": "platform_device_samsung_galaxys2-common",
+    "target_path": "device/samsung/galaxys2-common",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote": "to-d",
+    "repository": "platform_kernel_samsung_smdk4412",
+    "target_path": "kernel/samsung/smdk4412",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "revision": "cm-14.1"
+  },
+  { "remote": "cm",
+    "repository": "android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1"
+  }
+]
