@@ -1,4 +1,5 @@
 add_lunch_combo to_angler-userdebug
+add_lunch_combo to_armani-userdebug
 add_lunch_combo to_athene-userdebug
 add_lunch_combo to_bacon-userdebug
 add_lunch_combo to_bullhead-userdebug
