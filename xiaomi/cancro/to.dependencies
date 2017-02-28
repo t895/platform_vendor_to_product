@@ -1,0 +1,32 @@
+[
+  {
+    "remote:       "cm",
+    "repository":  "android_device_xiaomi_cancro",
+    "target_path": "device/xiaomi/cancro",
+    "branch":      "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository":  "android_kernel_xiaomi_cancro",
+    "target_path": "kernel/xiaomi/cancro",
+    "branch":      "cm-14.1"
+  },
+  {
+    "remote":      "tm",
+    "repository":  "proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "branch":      "cm-14.1"
+  },
+  {
+    "remote":      "tm",
+    "repository":  "proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch":      "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository":  "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "cm-14.1"
+  }
+]
