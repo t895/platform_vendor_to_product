@@ -1,9 +1,9 @@
 [
   {
-    "remote": "cm",
-    "repository": "android_device_samsung_jfltespr",
+    "remote": "to-d",
+    "repository": "platform_device_samsung_jfltespr",
     "target_path": "device/samsung/jfltespr",
-    "revision": "cm-14.1"
+    "revision": "oct-14.1"
   },
   {
     "remote": "to-d",
