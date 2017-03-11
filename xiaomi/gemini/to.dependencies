@@ -1,0 +1,56 @@
+[
+  {
+    "remote":      "cm",
+    "repository":  "android_device_xiaomi_msm8996-common",
+    "target_path": "device/xiaomi/msm8996-common",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository":  "android_device_xiaomi_gemini",
+    "target_path": "device/xiaomi/gemini",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "tm",
+    "repository":  "proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository":  "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository": "android_kernel_xiaomi_msm8996",
+    "target_path": "kernel/xiaomi/msm8996",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository": "android_vendor_nxp-nfc_opensource_frameworks",
+    "target_path": "vendor/nxp-nfc/opensource/frameworks",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository": "android_vendor_nxp-nfc_opensource_libnfc-nci",
+    "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
+    "revision":    "cm-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository": "android_vendor_nxp-nfc_opensource_Nfc",
+    "target_path": "vendor/nxp-nfc/opensource/Nfc",
+    "revision":    "cm-14.1"
+  }
+]
