@@ -30,12 +30,6 @@
     "remote": "to-d"
   },
   {
-    "repository": "proprietary_vendor_qcom_binaries",
-    "target_path": "vendor/qcom/binaries",
-    "revision": "cm-14.1",
-    "remote": "tm"
-  },
-  {
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "revision": "cm-14.1",
