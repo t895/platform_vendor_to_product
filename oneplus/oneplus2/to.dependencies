@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "android_device_oneplus_oneplus2",
+    "target_path": "device/oneplus/oneplus2",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "platform_device_oppo_common",
+    "target_path": "device/oppo/common",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "android_kernel_oneplus_msm8994",
+    "target_path": "kernel/oneplus/msm8994",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  }
+]
