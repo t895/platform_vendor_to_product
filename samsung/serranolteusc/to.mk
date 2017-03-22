@@ -12,11 +12,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit OctOs
 $(call inherit-product, vendor/to/config/common_full_phone.mk)
 
-# Inherit from serranolteusc device
-$(call inherit-product, device/samsung/serranolteusc/device.mk)
-
 # Inherit from serrano-common
 $(call inherit-product, vendor/to/product/samsung/serrano-common/to.mk)
+
+# Inherit from serranolteusc device
+$(call inherit-product, device/samsung/serranolteusc/device.mk)
 
 PRODUCT_NAME := to_serranolteusc
 PRODUCT_DEVICE := serranolteusc
