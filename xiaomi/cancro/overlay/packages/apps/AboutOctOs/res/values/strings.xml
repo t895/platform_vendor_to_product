@@ -25,4 +25,7 @@
          Set email_device to @null to use the fallback photo image -->
     <string name="email_device" translatable="false">aniket.lamba@gmail.com</string>
 
+    <!-- When URL_support_thread is set to "novalue" the support thread link is removed -->
+    <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/xiaomi-mi-3/development/rom-team-octos-oct-m-t3279479</string>
+
 </resources>
