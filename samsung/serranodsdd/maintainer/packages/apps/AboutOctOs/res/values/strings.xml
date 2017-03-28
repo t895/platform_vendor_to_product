@@ -17,12 +17,16 @@
 
     <!-- Device Maintainer can input their inforation here or set it in an overlay for the device-->
     <string name="device_support_title" translatable="false">GT-I9192 US Cellular S4 Mini Duos is supported by:</string>
-    <string name="dev_device" translatable="false">Team-OctOS</string>
-    <string name="twitter_device" translatable="false">teamoctos</string>
-    <string name="github_device" translatable="false">@string/github_octos</string>
-    <string name="gplus_device" translatable="false">@string/gplus_octos</string>
+    
+    <string name="dev_device" translatable="false">Jason Laskowski</string>
+    <string name="twitter_device" translatable="false">jason972000</string>
+    <string name="github_device" translatable="false">https://github.com/jlask</string>
+    <string name="gplus_device" translatable="false">https://plus.google.com/+JasonLaskowskiGPlus</string>
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
-    <string name="email_device" translatable="false">teamoctos@gmail.com</string>
+    <string name="email_device" translatable="false">jason972000@gmail.com</string>
+
+    <!-- when url_support_thread is set to "novalue" the support thread link is removed -->
+    <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/showthread.php?t=3567800</string>
 
 </resources>
