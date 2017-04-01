@@ -1,0 +1,50 @@
+[
+  {
+    "repository": "platform_device_lenovo_a6000",
+    "target_path": "device/lenovo/a6000",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "android_device_cyanogen_msm8916-common",
+    "target_path": "device/cyanogen/msm8916-common",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "platform_kernel_lenovo_msm8916",
+    "target_path": "kernel/lenovo/msm8916",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "proprietary_vendor_lenovo",
+    "target_path": "vendor/lenovo",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  }
+]
