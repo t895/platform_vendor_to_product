@@ -20,6 +20,16 @@
 #Device overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/google/marlin/overlay
 
+ifneq ($(HOST_OS),darwin)
+
+SDCLANG := true
+
+SDCLANG_PATH := prebuilts/clang/linux-x86/host/sdclang-3.8/bin
+
+SDCLANG_LTO_DEFS := device/qcom/common/sdllvm-lto-defs.mk
+
+endif
+
 PRODUCT_COPY_FILES := device/google/marlin/apns-full-conf.xml:system/etc/apns-conf.xml
 
 # Boot animation
@@ -57,5 +67,5 @@ PRODUCT_PACKAGES += \
 # Device Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=marlin \
-    BUILD_FINGERPRINT=google/marlin/marlin:7.1.1/NOF27B/3687361:user/release-keys \
-    PRIVATE_BUILD_DESC="marlin-user 7.1.1 NOF27B 3687361 release-keys"
+    BUILD_FINGERPRINT=google/marlin/marlin:7.1.2/N2G47E/3766409:user/release-keys \
+    PRIVATE_BUILD_DESC="marlin-user 7.1.2 N2G47E 3766409 release-keys"

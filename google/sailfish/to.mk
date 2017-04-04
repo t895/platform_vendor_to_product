@@ -60,5 +60,5 @@ PRODUCT_PACKAGES += \
 # Device Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=sailfish \
-    BUILD_FINGERPRINT=google/sailfish/sailfish:7.1.1/NOF27B/3687361:user/release-keys \
-    PRIVATE_BUILD_DESC="sailfish-user 7.1.1 NOF27B 3687361 release-keys"
+    BUILD_FINGERPRINT=google/sailfish/sailfish:7.1.2/N2G47E/3766409:user/release-keys \
+    PRIVATE_BUILD_DESC="sailfish-user 7.1.2 N2G47E 3766409 release-keys"
