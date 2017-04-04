@@ -20,16 +20,6 @@
 #Device overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/google/marlin/overlay
 
-ifneq ($(HOST_OS),darwin)
-
-SDCLANG := true
-
-SDCLANG_PATH := prebuilts/clang/linux-x86/host/sdclang-3.8/bin
-
-SDCLANG_LTO_DEFS := device/qcom/common/sdllvm-lto-defs.mk
-
-endif
-
 PRODUCT_COPY_FILES := device/google/marlin/apns-full-conf.xml:system/etc/apns-conf.xml
 
 # Boot animation
