@@ -18,6 +18,12 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 #Device overlay
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/motorola/shamu/overlay
 
+# Build using uber toolchain on linux but use default toolchain on darwin.
+ifneq ($(HOST_OS),darwin)
+KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-uber/bin
+TARGET_GCC_VERSION_EXP := 4.9-uber
+endif
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2560
 TARGET_SCREEN_WIDTH := 1440
