@@ -18,10 +18,10 @@
     "revision": "cm-14.1"
   },
   {
-    "remote": "to-d",
+    "remote": "tm",
     "repository": "proprietary_vendor_asus",
     "target_path": "vendor/asus",
-    "revision": "oct-14.1"
+    "revision": "cm-14.1"
   },
   {
    "remote": "cm",
