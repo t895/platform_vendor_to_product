@@ -20,6 +20,7 @@ add_lunch_combo to_jfltespr-userdebug
 add_lunch_combo to_jfltexx-userdebug
 add_lunch_combo to_ls990-userdebug
 add_lunch_combo to_marlin-userdebug
+add_lunch_combo to_mido-userdebug
 add_lunch_combo to_oneplus2-userdebug
 add_lunch_combo to_oneplus3-userdebug
 add_lunch_combo to_s2-userdebug

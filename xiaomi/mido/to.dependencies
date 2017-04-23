@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "to-d",
+    "repository": "platform_device_xiaomi_mido",
+    "target_path": "device/xiaomi/mido",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote":      "to-d",
+    "repository": "platform_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote":      "to-d",
+    "repository": "proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision": "oct-14.1"
+  },
+  {
+     "remote":      "cm",
+     "repository": "android_packages_resources_devicesettings",
+     "target_path": "packages/resources/devicesettings",
+     "revision": "cm-14.1"
+   }
+]
