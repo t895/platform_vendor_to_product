@@ -15,9 +15,6 @@ add_lunch_combo to_d855-userdebug
 add_lunch_combo to_gemini-userdebug
 add_lunch_combo to_hammerhead-userdebug
 add_lunch_combo to_i9100-userdebug
-add_lunch_combo to_jflteatt-userdebug
-add_lunch_combo to_jfltespr-userdebug
-add_lunch_combo to_jfltexx-userdebug
 add_lunch_combo to_ls990-userdebug
 add_lunch_combo to_marlin-userdebug
 add_lunch_combo to_mido-userdebug
