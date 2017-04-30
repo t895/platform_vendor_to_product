@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2015-2016 Team-OctOS
+<!-- Copyright (C) 2015-2017 Team-OctOS
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,12 +17,16 @@
 
     <!-- Device Maintainer can input their inforation here or set it in an overlay for the device-->
     <string name="device_support_title" translatable="false">MotoG4/G4 Plus is supported by:</string>
-    <string name="dev_device" translatable="false">rahulsnair</string>
-    <string name="twitter_device" translatable="false">https://twitter.com/rahulsnair30</string>
-    <string name="github_device" translatable="false">https://github.com/rahulsnair</string>
-    <string name="gplus_device" translatable="false">https://plus.google.com/+RahulSNair30/about</string>
+    <string name="dev_device" translatable="false">@string/dev_hedwig34</string>
+    <string name="twitter_device" translatable="false">@string/twitter_hedwig34</string>
+    <string name="github_device" translatable="false">@string/github_hedwig34</string>
+    <string name="gplus_device" translatable="false">@string/gplus_hedwig34</string>
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
-    <string name="email_device" translatable="false">rahulsnair30@gmail.com</string>
+    <string name="email_device" translatable="false">@string/email_hedwig34</string>
+    <string name="support_title" translatable="false">XDA Developers Thread</string>
+    <string name="support_summary" translatable="false">Visit our support thread on XDA Developers Forum!</string>
+    <!-- when url_support_thread is set to "novalue" the support thread link is removed -->
+    <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/moto-g4-plus/development/rom-teamoctos-t3475929</string>
 
 </resources>
