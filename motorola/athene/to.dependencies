@@ -12,10 +12,10 @@
     "revision": "cm-14.1"
   },
   {
-    "remote": "to-d",
-    "repository": "kraken_kernel_motorola_msm8952",
+    "remote": "cm",
+    "repository": "android_kernel_motorola_msm8952",
     "target_path": "kernel/motorola/msm8952",
-    "revision": "oct-14.1"
+    "revision": "cm-14.1"
   },
   {
     "remote": "tm",
