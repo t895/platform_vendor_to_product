@@ -1,0 +1,38 @@
+[
+  {
+    "remote":      "to-d",
+    "repository": "platform_device_xiaomi_kenzo",
+    "target_path": "device/xiaomi/kenzo",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote":      "to-d",
+    "repository": "platform_device_xiaomi_msm8956-common",
+    "target_path": "device/xiaomi/msm8956-common",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote":      "to-d",
+    "repository": "platform_kernel_xiaomi_msm8956",
+    "target_path": "kernel/xiaomi/msm8956",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote":      "to-d",
+    "repository": "proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision": "oct-14.1"
+  },
+  {
+    "remote":      "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1"
+  },
+  {
+     "remote":      "cm",
+     "repository": "android_packages_resources_devicesettings",
+     "target_path": "packages/resources/devicesettings",
+     "revision": "cm-14.1"
+   }
+]
