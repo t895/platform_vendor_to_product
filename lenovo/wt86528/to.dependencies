@@ -1,0 +1,44 @@
+[
+  {
+    "repository": "platform_device_lenovo_wt86528",
+    "target_path": "device/lenovo/wt86528",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "platform_kernel_lenovo_wt86528",
+    "target_path": "kernel/lenovo/wt86528",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "proprietary_vendor_lenovo",
+    "target_path": "vendor/lenovo",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  }
+]
