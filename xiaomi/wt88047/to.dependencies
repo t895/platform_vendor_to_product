@@ -1,0 +1,50 @@
+[
+  {
+    "remote":      "cm",
+    "repository":  "android_device_wingtech_wt88047",
+    "target_path": "device/wingtech/wt88047",
+    "revision":    "cm-14.1"
+  },
+  {
+    "repository": "android_device_cyanogen_msm8916-common",
+    "target_path": "device/cyanogen/msm8916-common",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "android_kernel_wingtech_msm8916",
+    "target_path": "kernel/wingtech/msm8916",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+    "repository": "proprietary_vendor_wingtech",
+    "target_path": "vendor/wingtech",
+    "revision": "cm-14.1",
+    "remote": "tm"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  }
+]
