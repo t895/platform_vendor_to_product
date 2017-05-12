@@ -31,7 +31,6 @@ add_lunch_combo to_shamu-userdebug
 add_lunch_combo to_vs985-userdebug
 add_lunch_combo to_wt86528-userdebug
 add_lunch_combo to_wt88047-userdebug
-add_lunch_combo to_Y550-userdebug
 add_lunch_combo to_Z00A-userdebug
 add_lunch_combo to_Z00L-userdebug
 add_lunch_combo to_Z00T-userdebug
