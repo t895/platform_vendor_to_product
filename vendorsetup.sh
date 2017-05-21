@@ -35,3 +35,4 @@ add_lunch_combo to_Z00A-userdebug
 add_lunch_combo to_Z00L-userdebug
 add_lunch_combo to_Z00T-userdebug
 add_lunch_combo to_Z008-userdebug
+add_lunch_combo to_z2_plus-userdebug
