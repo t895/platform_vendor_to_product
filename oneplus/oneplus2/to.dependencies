@@ -18,10 +18,10 @@
     "remote": "to-d"
   },
   {
-    "repository": "platform_kernel_oneplus_msm8994",
+    "repository": "android_kernel_oneplus_msm8994",
     "target_path": "kernel/oneplus/msm8994",
-    "revision": "oct-14.1",
-    "remote": "to-d"
+    "revision": "cm-14.1",
+    "remote": "cm"
   },
   {
     "repository": "android_packages_resources_devicesettings",
