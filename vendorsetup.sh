@@ -1,8 +1,6 @@
-add_lunch_combo to_a6000-userdebug
 add_lunch_combo to_angler-userdebug
 add_lunch_combo to_armani-userdebug
 add_lunch_combo to_athene-userdebug
-add_lunch_combo to_bacon-userdebug
 add_lunch_combo to_bullhead-userdebug
 add_lunch_combo to_cancro-userdebug
 add_lunch_combo to_d2att-userdebug
