@@ -1,4 +1,3 @@
-add_lunch_combo to_a6000-userdebug
 add_lunch_combo to_bacon-userdebug
 add_lunch_combo to_jflteatt-userdebug
 add_lunch_combo to_jfltespr-userdebug
