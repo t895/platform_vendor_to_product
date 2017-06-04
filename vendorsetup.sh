@@ -4,6 +4,7 @@ add_lunch_combo to_armani-userdebug
 add_lunch_combo to_athene-userdebug
 add_lunch_combo to_bullhead-userdebug
 add_lunch_combo to_cancro-userdebug
+add_lunch_combo to_cedric-userdebug
 add_lunch_combo to_d2att-userdebug
 add_lunch_combo to_d2spr-userdebug
 add_lunch_combo to_d2tmo-userdebug
