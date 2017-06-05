@@ -17,12 +17,18 @@
 
     <!-- Device Maintainer can input their inforation here or set it in an overlay for the device-->
     <string name="device_support_title" translatable="false">Asus Zenfone 2 (Z00A/Z008) is supported by:</string>
-    <string name="dev_device" translatable="false">Faradis Drubo</string>
-    <string name="twitter_device" translatable="false">https://twitter.com/Druboo_666</string>
-    <string name="github_device" translatable="false">https://github.com/Druboo666</string>
-    <string name="gplus_device" translatable="false">https://plus.google.com/+FaradisDrubo/about</string>
+    <string name="dev_device" translatable="false">Joel Maxuel</string>
+    <string name="twitter_device" translatable="false">https://twitter.com/Joel_Maxuel</string>
+    <string name="github_device" translatable="false">https://github.com/joelmaxuel</string>
+    <string name="gplus_device" translatable="false">https://plus.google.com/+JoelMaxuel</string>
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
-    <string name="email_device" translatable="false">drubo777@gmail.com</string>
+    <string name="email_device" translatable="false">j.maxuel@gmail.com</string>
+
+    <!-- when url_support_thread is set to "novalue" the support thread link is removed -->
+    <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/zenfone2/development/rom-asus-zenfone-2-t3531934/post70393074?nocache=1#post70393074</string>
+
+    <!-- URL of the Kraken kernel for the device-->
+    <!-- <string name="octos_kraken_url">http://www.teamoctos.com/kraken-kernel-oct-n/</string> -->
 
 </resources>
