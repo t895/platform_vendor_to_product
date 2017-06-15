@@ -18,12 +18,12 @@
     <!-- Device Maintainer can input their inforation here or set it in an overlay for the device-->
     <string name="device_support_title" translatable="false">Redmi 2 is supported by:</string>
 
-    <string name="dev_device" translatable="false">Muhammad Iqbal</string>
-    <string name="twitter_device" translatable="false">https://twitter.com/muhammadiqbal_7</string>
-    <string name="github_device" translatable="false">https://github.com/LineageOS/android_device_wingtech_wt88047</string>
+    <string name="dev_device" translatable="false">NeoDarkness</string>
+    <string name="twitter_device" translatable="false">null</string>
+    <string name="github_device" translatable="false">https://github.com/NeoDarkness/android_device_wingtech_wt88047</string>
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
-    <string name="email_device" translatable="false">muhammadiqbal20122012@gmail.com</string>
+    <string name="email_device" translatable="false">Aldi.45ckr@gmail.com</string>
 
     <!-- when url_support_thread is set to "novalue" the support thread link is removed -->
     <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/redmi-2/development/rom-team-octos-oct-n-t3604437</string>
