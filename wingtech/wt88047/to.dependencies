@@ -12,10 +12,10 @@
     "remote": "to-d"
   },
   {
-    "repository": "platform_kernel_wingtech_msm8916",
+    "repository": "android_kernel_wingtech_msm8916",
     "target_path": "kernel/wingtech/msm8916",
     "revision": "oct-14.1",
-    "remote": "to-d"
+    "remote": "cm"
   },
   {
     "repository": "android_device_cyanogen_msm8916-common",
