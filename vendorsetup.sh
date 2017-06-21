@@ -29,6 +29,7 @@ add_lunch_combo to_serranodsdd-userdebug
 add_lunch_combo to_serranolteusc-userdebug
 add_lunch_combo to_serranoltexx-userdebug
 add_lunch_combo to_shamu-userdebug
+add_lunch_combo to_surnia-userdebug
 add_lunch_combo to_vs985-userdebug
 add_lunch_combo to_wt86528-userdebug
 add_lunch_combo to_wt88047-userdebug

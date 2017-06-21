@@ -1,0 +1,44 @@
+[
+  {
+    "repository": "platform_device_motorola_surnia",
+    "target_path": "device/motorola/surnia",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-14.1"
+  },
+  {
+    "repository":  "platform_kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "platform_device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common",
+    "revision": "oct-14.1",
+    "remote": "to-d"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-14.1",
+    "remote": "cm"
+  },
+  {
+   "remote": "cm",
+   "repository": "android_external_bson",
+   "target_path": "external/bson",
+    "revision": "cm-14.1"
+  },
+  {
+   "remote": "cm",
+   "repository": "android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings",
+   "revision": "cm-14.1"
+  }
+]
