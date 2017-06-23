@@ -14,7 +14,7 @@
   {
     "repository": "android_kernel_wingtech_msm8916",
     "target_path": "kernel/wingtech/msm8916",
-    "revision": "oct-14.1",
+    "revision": "cm-14.1",
     "remote": "cm"
   },
   {
