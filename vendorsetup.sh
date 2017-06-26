@@ -22,6 +22,7 @@ add_lunch_combo to_marlin-userdebug
 add_lunch_combo to_mido-userdebug
 add_lunch_combo to_oneplus2-userdebug
 add_lunch_combo to_oneplus3-userdebug
+add_lunch_combo to_potter-userdebug
 add_lunch_combo to_s2-userdebug
 add_lunch_combo to_sailfish-userdebug
 add_lunch_combo to_serrano3gxx-userdebug
