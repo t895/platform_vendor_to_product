@@ -1,12 +1,6 @@
 [
   {
     "remote":       "to-d",
-    "repository":   "platform_kernel_motorola_cedric",
-    "target_path":  "kernel/motorola/cedric",
-    "revision":     "oct-14.1"
-  },
-  {
-    "remote":       "to-d",
     "repository":   "platform_kernel_motorola_msm8937",
     "target_path":  "kernel/motorola/msm8937",
     "revision":     "oct-14.1"
