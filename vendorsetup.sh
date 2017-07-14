@@ -13,7 +13,6 @@ add_lunch_combo to_d2vzw-userdebug
 add_lunch_combo to_d850-userdebug
 add_lunch_combo to_d851-userdebug
 add_lunch_combo to_d855-userdebug
-add_lunch_combo to_gemini-userdebug
 add_lunch_combo to_hammerhead-userdebug
 add_lunch_combo to_i9100-userdebug
 add_lunch_combo to_kenzo-userdebug
