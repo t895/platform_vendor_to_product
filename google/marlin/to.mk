@@ -21,10 +21,10 @@
 DEVICE_PACKAGE_OVERLAYS += vendor/to/product/google/marlin/overlay
 
 # Build using uber toolchain on linux but use default toolchain on darwin.
-ifneq ($(HOST_OS),darwin)
-KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-uber/bin
-TARGET_GCC_VERSION_EXP := 4.9-uber
-endif
+#ifneq ($(HOST_OS),darwin)
+#KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-uber/bin
+#TARGET_GCC_VERSION_EXP := 4.9-uber
+#endif
 
 PRODUCT_COPY_FILES := device/google/marlin/apns-full-conf.xml:system/etc/apns-conf.xml
 
