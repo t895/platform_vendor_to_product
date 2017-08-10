@@ -25,6 +25,6 @@
     <string name="email_device" translatable="false">adri16072002@gmail.com</string>
 
     <!-- when url_support_thread is set to "novalue" the support thread link is removed -->
-    <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/g5/development/rom-moto-g5-t3617088</string>
+    <string name="url_support_thread" translatable="false">https://forum.xda-developers.com/g5/development/rom-moto-g5-t3618364</string>
 
 </resources>
