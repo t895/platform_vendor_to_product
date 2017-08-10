@@ -6,10 +6,10 @@
     "remote": "to-d"
   },
   {
-    "repository": "android_device_cyanogen_msm8916-common",
-    "target_path": "device/cyanogen/msm8916-common",
-    "revision": "cm-14.1",
-    "remote": "cm"
+    "repository": "platform_device_lenovo_msm8916-common",
+    "target_path": "device/lenovo/msm8916-common",
+    "revision": oct-14.1",
+    "remote": "to-d"
   },
   {
     "repository": "android_device_qcom_common",
