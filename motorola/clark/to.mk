@@ -20,7 +20,7 @@ $(call inherit-product, device/motorola/clark/lineage.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/motorola/clark/device.mk)
 # Device overlay
-DEVICE_PACKAGE_OVERLAYS += vendor/to/product/motorola/cedric/overlay
+DEVICE_PACKAGE_OVERLAYS += vendor/to/product/motorola/clark/overlay
 
 # for specific
 $(call inherit-product, vendor/motorola/clark/clark-vendor.mk)
