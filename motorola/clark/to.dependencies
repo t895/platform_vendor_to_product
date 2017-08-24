@@ -6,10 +6,10 @@
     "revision":     "cm-14.1"
   },
   {
-    "remote":       "cm",
-    "repository":   "android_device_motorola_clark",
+    "remote":       "github",
+    "repository":   "t895/android_device_motorola_clark",
     "target_path":  "device/motorola/clark",
-    "revision":     "cm-14.1"
+    "revision":     "oct-14.1"
   },
   {
     "remote":      "cm",
