@@ -1,5 +1,5 @@
 add_lunch_combo to_bacon-userdebug
-add_lunch_combo to_mark-userdebug
+add_lunch_combo to_clark-userdebug
 add_lunch_combo to_gemini-userdebug
 add_lunch_combo to_grouper-userdebug
 add_lunch_combo to_i605-userdebug
