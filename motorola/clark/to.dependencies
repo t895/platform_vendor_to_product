@@ -9,7 +9,7 @@
     "remote":       "github",
     "repository":   "t895/android_device_motorola_clark",
     "target_path":  "device/motorola/clark",
-    "revision":     "oct-14.1"
+    "revision":     "cm-14.1_oct"
   },
   {
     "remote":      "cm",
@@ -28,5 +28,11 @@
     "repository":   "android_device_qcom_common",
     "target_path":  "device/qcom/common",
     "revision":     "cm-14.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "t895/proprietary_vendor_motorola_clark",
+    "target_path":  "vendor/motorola",
+    "revision":     "cm-14.1_n"
   }
 ]
